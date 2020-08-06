@@ -34,6 +34,6 @@ Constraints:
 
 
 ```
-Runtime: 136 ms, faster than 5.86% of JavaScript online submissions for Kids With the Greatest Number of Candies.
-Memory Usage: 36.7 MB, less than 10.89% of JavaScript online submissions for Kids With the Greatest Number of Candies.
+Runtime: 76 ms, faster than 46.11% of JavaScript online submissions for Kids With the Greatest Number of Candies.
+Memory Usage: 37.1 MB, less than 7.66% of JavaScript online submissions for Kids With the Greatest Number of Candies.
 ```

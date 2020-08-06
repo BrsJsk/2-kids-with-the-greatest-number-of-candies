@@ -5,6 +5,11 @@
  */
 module.exports.kidsWithCandies = (candies, extraCandies) => {
     const largestNumber = Math.max(...candies);
+    let items = [];
 
-    return candies.map(candie => candie + extraCandies >= largestNumber);
+    for (let i = 0; i < candies.length; i++) {
+        items.push(candies[i] + extraCandies >= largestNumber)
+    }
+
+    return items;
 };
